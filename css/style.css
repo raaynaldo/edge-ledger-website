@@ -68,3 +68,8 @@ img {
 .navbar .logo {
   font-weight: 400;
 }
+
+/* Header */
+.hero {
+  background: url("../image/home/showcase.jpg");
+}
